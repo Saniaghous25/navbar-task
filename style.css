@@ -1,0 +1,5 @@
+
+.nav-link:hover{
+    font-weight:500;
+    color: rgb(17, 16, 16) !important;
+    transform: scale(1.3);}
